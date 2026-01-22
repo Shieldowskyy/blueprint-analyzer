@@ -19,10 +19,7 @@
 		{
 			"Name": "BlueprintAnalyzer",
 			"Type": "Editor",
-			"LoadingPhase": "Default",
-			"PlatformAllowList": [
-				"Win64"
-			]
+			"LoadingPhase": "Default"
 		}
 	]
 }
