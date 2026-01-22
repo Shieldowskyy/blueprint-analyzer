@@ -4,6 +4,9 @@
 
 A comprehensive Unreal Engine 5 editor plugin that converts .uasset Blueprint files to LLM-friendly formats and provides advanced UMG Widget optimization analysis. Perfect for AI-assisted development, code review, and performance optimization.
 
+## About this fork!
+This fork removes AllowedPlatform field from .uplugin file to allow this plugin to compile for Linux Editor.
+
 ## ✨ Key Features
 
 ### Blueprint to LLM Conversion
